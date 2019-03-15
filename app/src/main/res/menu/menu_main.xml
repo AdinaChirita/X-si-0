@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.buzoianustefan.xsi0.MainActivity">
+    <item
+        android:id="@+id/action_new_game"
+        android:orderInCategory="50"
+        android:title="New Game"
+        app:showAsAction="always" />
+
+</menu>
